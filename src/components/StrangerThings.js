@@ -153,5 +153,3 @@ class StrangerThings extends React.Component {
 }
 
 export default StrangerThings;
-
-// bora bill
